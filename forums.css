@@ -5,7 +5,7 @@
     box-sizing: border-box;
 }
 body{
-    background-image: lightblue;
+    background-color: lightblue;
 }
 .contact-container{
     height: 100vh;
